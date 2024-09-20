@@ -1,0 +1,6 @@
+HouseID,Price,SqFeet,Bedrooms,Bathrooms,Location,YearBuilt,Garage
+1,200000,1500,3,2,Suburban,2005,Yes
+2,350000,2300,4,3,Urban,2010,Yes
+3,120000,900,2,1,Rural,1998,No
+4,275000,1800,3,2,Suburban,2015,Yes
+5,450000,3000,5,4,Urban,2018,Yes
